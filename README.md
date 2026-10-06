@@ -3,3 +3,7 @@ Hi, I'm Samuel Ikedi. Data Analyst focused on turning data into useful insights.
  my data work using python
 [ My data work] 
  https://github.com/Samuelikedi21/MY-DATA-WORKS.git
+ ### ML/AI
+ my machine learning work
+ [ Keras]
+ https://github.com/Samuelikedi21/TEAM-KERAS.git
